@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  select,
+  input {
+    margin: 0.5rem;
+    padding: 0.5rem;
+  }
+  
+  #activity-details {
+    margin: 1rem;
+    border: 1px solid black;
+    padding: 1rem;
+  }
+  
+  #purchase-form {
+    margin: 1rem;
+    border: 1px solid black;
+    padding: 1rem;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+    
+
